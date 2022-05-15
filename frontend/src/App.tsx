@@ -3,9 +3,9 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Listing from 'Components/pages/Listing';
-import Form from 'Components/pages/Form';
-import Navbar from "Components/Navbar";
+import Listing from "../src/Components/pages/Listing";
+import Form from "../src/Components/pages/Form";
+import Navbar from "../src/Components/Navbar";
 
 function App() {
   return (

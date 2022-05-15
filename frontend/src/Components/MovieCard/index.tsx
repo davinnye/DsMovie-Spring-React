@@ -1,4 +1,4 @@
-import MovieScore from "Components/MovieScore";
+import MovieScore from "../MovieScore";
 import { Link } from "react-router-dom";
 const movie = {
     id: 1,

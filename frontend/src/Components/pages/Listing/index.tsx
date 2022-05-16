@@ -32,6 +32,7 @@ function Listing() {
     
     const handlePageChange = (newPageNumber : number) => {
     setPageNumber(newPageNumber);
+    window.scrollTo(0, 0)
 }
     return (
         <>
